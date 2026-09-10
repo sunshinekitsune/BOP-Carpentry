@@ -3,19 +3,19 @@
 	"modList": [{
 		"modid": "${modId}",
 		"name": "${modName}",
-		"description": "An example mod for Minecraft 1.7.10 with Forge focused on a stable setup.",
+		"description": "Adds missing blocks for Biomes O' Plenty.",
 		"version": "${modVersion}",
 		"mcversion": "${minecraftVersion}",
-		"url": "https://github.com/SinTh0r4s/MyMod",
+		"url": "https://github.com/sunshinekitsune/BOP-Carpentry",
 		"updateUrl": "",
-		"authorList": ["SinTho0r4s"],
+		"authorList": ["sunshinekitsune"],
 		"credits": "",
 		"logoFile": "",
 		"screenshots": [],
 		"parent": "",
-		"requiredMods": [],
-		"dependencies": [],
+		"requiredMods": ["BiomesOPlenty"],
+		"dependencies": ["BiomesOPlenty"],
 		"dependants": [],
-		"useDependencyInformation": false
+		"useDependencyInformation": true
 	}]
 }

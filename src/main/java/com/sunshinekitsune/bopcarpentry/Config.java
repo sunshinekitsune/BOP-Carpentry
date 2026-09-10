@@ -1,4 +1,4 @@
-package com.myname.mymodid;
+package com.sunshinekitsune.bopcarpentry;
 
 import java.io.File;
 
